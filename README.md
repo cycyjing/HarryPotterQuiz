@@ -8,7 +8,7 @@
   - index.js --- for entry file
   - App.js --- for root component
    - addons--- for component only used for this project
-   - components--- for component can used for public project
+   - components--- for component can used for public (can be reused)
    - layout--- for project page layout
    - store---redux folder
       - index.js---for redux config
